@@ -7,3 +7,7 @@ body {
 .header {
 	font-weight: 50;
 }
+
+.hidden {
+	display: none;
+}
